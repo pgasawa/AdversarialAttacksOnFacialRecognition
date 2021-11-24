@@ -1,4 +1,4 @@
-# adversarialAttacksOnFacialRecognition
+# AdversarialAttacksOnFacialRecognition
 
 Contributors: Parth Asawa, Andrew Qin, Valeriy Rotan, Rohan Viswanathan
 
